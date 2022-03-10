@@ -9,12 +9,12 @@ Parameters:
     Type: String
     Description: >
       The domain name you want to provision for Amazon SES (e.g., "corp.example.com").
-    Default: ""
+    Default: "de2-opp.xyz"
   EmailAddress:
     Type: String
     Description: >
       The email address you want to verify with Amazon SES (e.g., "sender@example.com").
-    Default: ""
+    Default: "no-reply@de2-opp.xyz"
   CfnSESResourcesTemplateURL:
     Type: String
     Description: >

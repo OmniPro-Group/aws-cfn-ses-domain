@@ -5,3 +5,4 @@ publish/
 *.egg-info/
 *.pyc
 .python-version
+.env/*
